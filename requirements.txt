@@ -1,5 +1,14 @@
+PyMuPDF # No module named ‘frontend’
 llama-cpp-python
 langchain
 notebook
 fitz
-PyMuPDF # No module named ‘frontend’
+transformers
+sentencepiece # download chatglm-6b from huggingface
+cpm_kernels # download chatglm-6b from huggingface
+chardet # download chatglm-6b from huggingface
+faiss-cpu
+sentence_transformers # for HuggingFaceEmbeddings
+textgrid
+peft
+datasets
